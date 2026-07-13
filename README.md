@@ -1,6 +1,6 @@
 # Portfolio — Khadije Ahmedou Limam
 
-Site web statique — Développeuse Full-Stack Web & Mobile.
+Site web — Développeuse Full-Stack Web & Mobile.
 
 ## Aperçu local
 
