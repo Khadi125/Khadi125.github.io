@@ -18,6 +18,8 @@
             'nav.contact':      'Contact',
 
             'hero.eyebrow':     'Portfolio · Nouakchott · 2026',
+            'hero.name.line1':  'Khadije <em>Ahmedou</em>',
+            'hero.name.line2':  'Limam.',
             'hero.role':        'Développeuse Full-Stack — Web & Mobile',
             'hero.baseline':    "Je conçois et développe des applications web et mobiles, de l'idée à la mise en ligne. J'aime autant réfléchir à l'architecture d'un backend qu'à la fluidité d'une interface. Chaque projet est pour moi l'occasion de comprendre un besoin réel et d'y répondre avec soin.",
             'hero.cta1':        'Voir mon travail →',
@@ -29,6 +31,7 @@
             'work.more':        'Et plus encore, en libre accès sur mon',
             'proj.viewSource':  'Voir le code source',
 
+            'proj.koulia.word':    'Koulia',
             'proj.koulia.title':   'Koulia',
             'proj.koulia.tagline': 'Plateforme universitaire complète — PFE',
             'proj.koulia.desc':    "Écosystème complet pour la gestion académique : API REST, interface web pour l'administration et les enseignants, et application mobile pour les étudiants. Modélisation LMD réaliste, messagerie temps réel, multilingue et mode hors ligne.",
@@ -49,7 +52,7 @@
             'about.title.rest':    'de moi',
             'about.p1':            "Je m'appelle <strong>Khadije Ahmedou Limam</strong>. Je vis à Nouakchott, en Mauritanie, et je termine actuellement ma Licence à la Faculté des Sciences et Techniques de l'Université de Nouakchott.",
             'about.p2':            "Le développement, pour moi, c'est le plaisir de partir d'une idée et d'aller jusqu'au bout : la comprendre, la modéliser, la coder proprement, puis la mettre entre les mains de quelqu'un qui va vraiment s'en servir. J'aime les projets où il faut penser à la fois au backend, à l'expérience utilisateur et à ce qui rend un produit agréable à utiliser.",
-            'about.p3':            "Sérieuse et curieuse, j'accorde une grande importance à la qualité de mon travail et aux détails. J'aime résoudre des problèmes concrets et j'apprends rapidement les technologies dont j'ai besoin. Mon objectif : rejoindre une équipe où l'on construit des produits qui ont du sens.",
+            'about.p3':            "Passionnée par le développement logiciel, je suis curieuse et orientée vers la résolution de problèmes. J'apprends rapidement de nouvelles technologies et j'accorde une grande importance à la qualité de mon travail et aux détails. Je recherche des opportunités qui me permettront de contribuer à des projets innovants tout en renforçant mes compétences techniques et professionnelles.",
             'about.fact1':         'projets réalisés',
             'about.fact2':         'langues parlées',
             'about.fact3':         'années de dev',
@@ -91,6 +94,7 @@
             'contact.lead':        "Vous avez un projet, une opportunité ou une idée à partager ? N'hésitez pas à me contacter. Je serai ravie d'échanger avec vous.",
             'contact.location':    'Basée à Nouakchott, Mauritanie · disponible à distance.',
 
+            'footer.brand':        'Khadije Ahmedou Limam',
             'footer.copy':         '© 2026 · Développé avec <span class="heart">♥</span> à Nouakchott.',
         },
 
@@ -102,6 +106,8 @@
             'nav.contact':      'Contact',
 
             'hero.eyebrow':     'Portfolio · Nouakchott · 2026',
+            'hero.name.line1':  'Khadije <em>Ahmedou</em>',
+            'hero.name.line2':  'Limam.',
             'hero.role':        'Full-Stack Developer — Web & Mobile',
             'hero.baseline':    "I design and build web and mobile applications, from the initial idea to the live product. I enjoy thinking about backend architecture as much as about the fluidity of a user interface. Each project is an opportunity to understand a real need and answer it with care.",
             'hero.cta1':        'See my work →',
@@ -113,6 +119,7 @@
             'work.more':        'And more, freely available on my',
             'proj.viewSource':  'View source code',
 
+            'proj.koulia.word':    'Koulia',
             'proj.koulia.title':   'Koulia',
             'proj.koulia.tagline': 'Complete university platform — Capstone project',
             'proj.koulia.desc':    'A full ecosystem for academic management: REST API, web interface for admin and teachers, and a mobile app for students. Realistic academic modeling, real-time messaging, multilingual and offline-capable.',
@@ -133,7 +140,7 @@
             'about.title.rest':    'me',
             'about.p1':            "My name is <strong>Khadije Ahmedou Limam</strong>. I live in Nouakchott, Mauritania, and I'm currently finishing my Bachelor's degree at the Faculty of Science and Technology of the University of Nouakchott.",
             'about.p2':            'To me, development is the joy of starting from an idea and going all the way: understanding it, modeling it, writing clean code, and putting it into the hands of someone who will really use it. I like projects where you have to think about backend, user experience, and what makes a product pleasant to use.',
-            'about.p3':            "Serious and curious, I care deeply about the quality of my work and the details. I enjoy solving real problems and I learn quickly the technologies I need. My goal: to join a team where we build products that truly matter.",
+            'about.p3':            "Passionate about software development, I am curious and problem-solving oriented. I quickly learn new technologies and I care deeply about the quality of my work and the details. I'm looking for opportunities to contribute to innovative projects while strengthening my technical and professional skills.",
             'about.fact1':         'projects delivered',
             'about.fact2':         'languages spoken',
             'about.fact3':         'years of dev',
@@ -175,6 +182,7 @@
             'contact.lead':        "Do you have a project, an opportunity or an idea to share? Feel free to reach out. I'll be glad to hear from you.",
             'contact.location':    'Based in Nouakchott, Mauritania · open to remote.',
 
+            'footer.brand':        'Khadije Ahmedou Limam',
             'footer.copy':         '© 2026 · Made with <span class="heart">♥</span> in Nouakchott.',
         },
 
@@ -186,6 +194,8 @@
             'nav.contact':      'تواصل',
 
             'hero.eyebrow':     'ملف الأعمال · نواكشوط · 2026',
+            'hero.name.line1':  'خديجة <em>أحمدو</em>',
+            'hero.name.line2':  'لمام.',
             'hero.role':        'مطوّرة برمجيات — ويب وتطبيقات محمولة',
             'hero.baseline':    'أصمّم وأطوّر تطبيقات الويب والهاتف، من الفكرة الأولى إلى الإطلاق. أستمتع بالتفكير في هندسة الخادم بقدر ما أهتمّ بسلاسة واجهة المستخدم. كل مشروع فرصة لفهم حاجة حقيقية والاستجابة لها بعناية.',
             'hero.cta1':        'شاهد أعمالي ←',
@@ -197,7 +207,8 @@
             'work.more':        'والمزيد متاح على',
             'proj.viewSource':  'مشاهدة الشيفرة المصدرية',
 
-            'proj.koulia.title':   'كولية',
+            'proj.koulia.word':    'كُلية',
+            'proj.koulia.title':   'كُلية',
             'proj.koulia.tagline': 'منصّة جامعية متكاملة — مشروع التخرج',
             'proj.koulia.desc':    'نظام متكامل لإدارة الحياة الأكاديمية: واجهة برمجة، تطبيق ويب للإدارة والأساتذة، وتطبيق جوّال للطلاب. نمذجة أكاديمية واقعية، محادثات فورية، دعم لعدة لغات، وعمل بدون اتصال.',
 
@@ -217,7 +228,7 @@
             'about.title.rest':    '',
             'about.p1':            'اسمي <strong>خديجة أحمدو ليمام</strong>. أعيش في نواكشوط بموريتانيا، وأنهي حاليًا الإجازة في كلية العلوم والتقنية بجامعة نواكشوط.',
             'about.p2':            'البرمجة بالنسبة لي هي متعة الانطلاق من فكرة والوصول بها إلى النهاية: فهمها، نمذجتها، كتابتها بشكل نظيف، ثم وضعها بين يدي من سيستخدمها فعلًا. أحب المشاريع التي تجمع بين التفكير في الخادم وتجربة المستخدم وما يجعل المنتج ممتعًا في الاستخدام.',
-            'about.p3':            'جادّة وفضولية، أُولي أهمية كبيرة لجودة عملي وتفاصيله. أحبّ حلّ المشكلات الحقيقية وأتعلّم بسرعة التقنيات التي أحتاجها. هدفي: الانضمام إلى فريق نبني فيه منتجات ذات معنى.',
+            'about.p3':            'شغوفة بتطوير البرمجيات، فضولية وموجَّهة نحو حلّ المشكلات. أتعلّم بسرعة التقنيات الجديدة وأُولي أهمية كبيرة لجودة عملي وتفاصيله. أبحث عن فرص تسمح لي بالمساهمة في مشاريع مبتكرة وبتعزيز مهاراتي التقنية والمهنية.',
             'about.fact1':         'مشروع منجَز',
             'about.fact2':         'لغات أتحدّثها',
             'about.fact3':         'سنوات في التطوير',
@@ -259,6 +270,7 @@
             'contact.lead':        'هل لديك مشروع أو فرصة أو فكرة تودّ مشاركتها؟ لا تتردّد في التواصل معي، سيسعدني الحديث معك.',
             'contact.location':    'مقيمة في نواكشوط بموريتانيا · متاحة للعمل عن بُعد.',
 
+            'footer.brand':        'خديجة أحمدو لمام',
             'footer.copy':         '© 2026 · صُنع بـ<span class="heart">♥</span> في نواكشوط.',
         },
     };
