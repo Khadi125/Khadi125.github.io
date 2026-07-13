@@ -23,6 +23,7 @@
             'hero.role':        'Développeuse Full-Stack — Web & Mobile',
             'hero.baseline':    "Je conçois et développe des applications web et mobiles, de l'idée à la mise en ligne. J'aime autant réfléchir à l'architecture d'un backend qu'à la fluidité d'une interface. Chaque projet est pour moi l'occasion de comprendre un besoin réel et d'y répondre avec soin.",
             'hero.cta1':        'Voir mon travail →',
+            'hero.cta3':        'Télécharger mon CV ↓',
             'hero.cta2':        'Me contacter',
 
             'work.title.em':    'Sélection',
@@ -92,6 +93,8 @@
 
             'contact.title.em':    'Contactons-nous',
             'contact.lead':        "Vous avez un projet, une opportunité ou une idée à partager ? N'hésitez pas à me contacter. Je serai ravie d'échanger avec vous.",
+            'contact.cvLabel':     'CV',
+            'contact.cvValue':     'Télécharger mon CV (PDF)',
             'contact.location':    'Basée à Nouakchott, Mauritanie · disponible à distance.',
 
             'footer.brand':        'Khadije Ahmedou Limam',
@@ -111,6 +114,7 @@
             'hero.role':        'Full-Stack Developer — Web & Mobile',
             'hero.baseline':    "I design and build web and mobile applications, from the initial idea to the live product. I enjoy thinking about backend architecture as much as about the fluidity of a user interface. Each project is an opportunity to understand a real need and answer it with care.",
             'hero.cta1':        'See my work →',
+            'hero.cta3':        'Download my resume ↓',
             'hero.cta2':        'Get in touch',
 
             'work.title.em':    'Selected',
@@ -180,6 +184,8 @@
 
             'contact.title.em':    "Let's talk",
             'contact.lead':        "Do you have a project, an opportunity or an idea to share? Feel free to reach out. I'll be glad to hear from you.",
+            'contact.cvLabel':     'Resume',
+            'contact.cvValue':     'Download my resume (PDF)',
             'contact.location':    'Based in Nouakchott, Mauritania · open to remote.',
 
             'footer.brand':        'Khadije Ahmedou Limam',
@@ -199,6 +205,7 @@
             'hero.role':        'مطوّرة برمجيات — ويب وتطبيقات محمولة',
             'hero.baseline':    'أصمّم وأطوّر تطبيقات الويب والهاتف، من الفكرة الأولى إلى الإطلاق. أستمتع بالتفكير في هندسة الخادم بقدر ما أهتمّ بسلاسة واجهة المستخدم. كل مشروع فرصة لفهم حاجة حقيقية والاستجابة لها بعناية.',
             'hero.cta1':        'شاهد أعمالي ←',
+            'hero.cta3':        'حمّل سيرتي الذاتية ↓',
             'hero.cta2':        'تواصل معي',
 
             'work.title.em':    'مختارات',
@@ -268,6 +275,8 @@
 
             'contact.title.em':    'لنتواصل',
             'contact.lead':        'هل لديك مشروع أو فرصة أو فكرة تودّ مشاركتها؟ لا تتردّد في التواصل معي، سيسعدني الحديث معك.',
+            'contact.cvLabel':     'السيرة الذاتية',
+            'contact.cvValue':     'تحميل السيرة الذاتية (PDF)',
             'contact.location':    'مقيمة في نواكشوط بموريتانيا · متاحة للعمل عن بُعد.',
 
             'footer.brand':        'خديجة أحمدو لمام',
