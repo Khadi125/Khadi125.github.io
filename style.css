@@ -856,6 +856,17 @@ em, i { font-style: italic; }
     letter-spacing: 0.3px;
 }
 
+.heart {
+    color: var(--accent);
+    display: inline-block;
+    animation: heartbeat 1.8s ease-in-out infinite;
+}
+
+@keyframes heartbeat {
+    0%, 100% { transform: scale(1); }
+    50%      { transform: scale(1.18); }
+}
+
 /* ==========================================================================
    RESPONSIVE
    ========================================================================== */
